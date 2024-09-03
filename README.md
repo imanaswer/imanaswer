@@ -19,8 +19,9 @@
 
 <!-- About -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3AF7B8&center=true&vCenter=true&width=700&lines=21-year-old+developer+from+India;On+a+mission+to+engineer+whatever+I+want" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3AF7B8&center=true&vCenter=true&width=1000&lines=21-year-old+developer+from+India;On+a+mission+to+engineer+whatever+I+want" alt="Typing SVG" />
 </p>
+
 
 <!-- Toolbox Header -->
 <p align="center">
@@ -49,7 +50,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anaswerajay/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:anaswerajay@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/LrJXnGo.png"/></a>
 </p>
 
 <!-- Footer -->
