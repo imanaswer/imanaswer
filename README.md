@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated header bars" width="100%"/>
 </p>
 
 <!-- Name -->
@@ -19,14 +19,15 @@
 
 <!-- About -->
 <p align="center">
-  <samp>"21-year-old developer from India, on a mission to engineer whatever I Want.".</samp>
+  <samp>"21-year-old developer from India, on a mission to engineer whatever I want."</samp>
 </p>
 
-<!-- Toolbox -->
+<!-- Toolbox Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=🛠️+Toolkit" alt="Typing SVG" />
 </p>
 
+<!-- Toolbox Content -->
 <p align="center">
   <samp>
     <b>Languages:</b> Python, HTML, CSS, C/C++, Postgres, MySQL, MongoDB, JavaScript <br>
@@ -37,6 +38,9 @@
 </p>
 
 <!-- Social Media Links -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=Let's+Connect" alt="Typing SVG" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/anaswerajay/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
 </p>
