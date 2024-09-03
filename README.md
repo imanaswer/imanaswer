@@ -22,7 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3AF7B8&center=true&vCenter=true&width=700&lines=21-year-old+developer+from+India;On+a+mission+to+engineer+whatever+I+want" alt="Typing SVG" />
 </p>
 
-
 <!-- Toolbox Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=3AF7EC&center=true&vCenter=true&width=450&lines=🛠️+Toolkit" alt="Typing SVG" />
@@ -38,10 +37,25 @@
   </samp>
 </p>
 
-<!-- New Section: Current Focus -->
+<!-- Current Focus -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B03A&center=true&vCenter=true&width=1000&lines=🚀+Current+Focus:+Exploring+AI,+Machine+Learning,+and+DevOps" alt="Typing SVG" />
 </p>
+
+<!-- Fun Facts -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=F7A3A3&center=true&vCenter=true&width=400&lines=🎉+Fun+Facts+About+Me" alt="Typing SVG" />
+</p>
+<p align="center">
+  <samp>
+    - 🌄 I love hiking and exploring new trails in nature. <br>
+    - 🌙 The moon and night sky are my favorite sources of inspiration. <br>
+    - 📚 I’m an avid reader of crime and murder mysteries—nothing beats a thrilling plot twist! <br>
+    - 🍫 I have a serious weakness for chocolates; I can’t resist trying new flavors. <br>
+    - ✍️ I enjoy writing whenever I get the chance, whether it’s for fun or necessity.
+  </samp>
+</p>
+
 
 <!-- Social Media Links -->
 <p align="center">
