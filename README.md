@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p>
 <!-- name -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=9999999999999999999999999999999999&color=DD73F7&center=true&width=435&lines=Anaswer+Ajay" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=9999999999999999999999999999999999&color=DD73F7&center=true&width=550&lines=Anaswer+Ajay" alt="Typing SVG" /></a>
 </p>
 <!-- dissapearing text -->
 <p align="center">
@@ -18,8 +18,41 @@
 <p align="left">
 </p>
 
-<h3> Skills and Tools <img src = "https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b76118f1f8400b759e4d4c159f202c372dd2163f99644&rid=giphy.gif&ct=s" width = 32px> </h3>
-<!--<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>-->  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <!--<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <!--<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>--> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>--> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><!--<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>--> </p>
+</details>
+<!-- <details open>
+  <summary>Github status</summary>
+  <img align="left" alt="saike's github stats"  src="https://github-readme-stats-saike148.vercel.app/api?username=saike148&showi_icons=true&theme=react&bg_color=1F222E&title_color=DD73F7&hide_border=true&icon_color=DD73F7&show_icons=false" />
+</details> -->
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/saike148/github-readme-stats -->
+  <p>
+    <a href="https://github.com/saike148/github-readme-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="saike148's streak" src="https://streak-stats.demolab.com/?user=saike148&theme=modern-lilac&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/saike148/github-readme-stats -->
+
+  <a href="https://github.com/saike148/github-readme-stats"><img alt="saike148's's Github Stats" src="https://github-readme-stats-saike148.vercel.app/api/?username=saike148&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=DD73F7&icon_color=F8D866" height="192px"/></a>
+
+  <a href="https://github.com/saike148/github-readme-stats"><img alt="saike148's Top Languages" src="https://github-readme-stats-saike148.vercel.app/api/top-langs/?username=saike148&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=DD73F7&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="saike's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=saike148&bg_color=1F222E&color=F8D866&line=DD73F7&point=FFFFFF&hide_border=true" /></a>
+
+</details>
+
 
 <table>
   
