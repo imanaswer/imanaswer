@@ -40,9 +40,11 @@ That's how I ended up interning on Search Ranking at Google and at Jane Street i
 
 <img src="assets/rhythm.svg" width="100%" alt="When I commit: a 7-day by 24-hour matrix of commit activity" />
 
+<img src="assets/activity.svg" width="100%" alt="Contribution mix over the last 12 months: commits, pull requests, reviews, and issues" />
+
 </div>
 
-<sub>Both cards are generated from live GitHub data by [a scheduled Action](.github/workflows/stats.yml) and committed into this repo — no third-party service to go down.</sub>
+<sub>These cards are generated from live GitHub data by [a scheduled Action](.github/workflows/stats.yml) and committed into this repo — no third-party service to go down.</sub>
 
 <br/>
 
