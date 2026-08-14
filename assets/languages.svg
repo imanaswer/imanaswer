@@ -5,7 +5,7 @@
 <text x="34" y="68" font-size="12" fill="#8b8798">by bytes written across 36 original repositories</text>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="282.75 43.97" transform="rotate(-90.00 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="20.08 306.64" transform="rotate(221.55 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.81 312.92" transform="rotate(243.68 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.81 312.92" transform="rotate(243.67 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.80 321.93" transform="rotate(258.89 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.73 325.00" transform="rotate(264.18 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.50 325.22" transform="rotate(266.08 126 156)"/>
@@ -42,6 +42,6 @@
 <text x="585" y="198" font-size="30" font-weight="700" fill="#ece8ff">17</text>
 <text x="667" y="198" font-size="13" fill="#8b8798">languages</text>
 <line x1="585" y1="214" x2="805" y2="214" stroke="#2a2740" stroke-width="1"/>
-<text x="585" y="242" font-size="30" font-weight="700" fill="#ece8ff">61</text>
+<text x="585" y="242" font-size="30" font-weight="700" fill="#ece8ff">57</text>
 <text x="667" y="242" font-size="13" fill="#8b8798">pushes · 90d</text>
 </svg>
