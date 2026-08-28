@@ -3,21 +3,21 @@
 <rect x="1" y="1" width="838" height="248" rx="16" fill="url(#bg)" stroke="#241f36" stroke-width="1"/>
 <text x="34" y="46" font-size="13" font-weight="700" letter-spacing="4" fill="#6e6a86">LANGUAGES</text>
 <text x="34" y="68" font-size="12" fill="#8b8798">by bytes written across 38 original repositories</text>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="278.79 47.93" transform="rotate(-90.00 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="24.06 302.67" transform="rotate(217.18 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.71 313.02" transform="rotate(243.69 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.73 321.99" transform="rotate(258.80 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.71 325.02" transform="rotate(264.01 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.70 325.02" transform="rotate(265.89 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#3f3d4d" stroke-width="22" stroke-dasharray="2.03 324.70" transform="rotate(267.77 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="278.31 48.42" transform="rotate(-90.00 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="24.56 302.16" transform="rotate(216.65 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.68 313.04" transform="rotate(243.72 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.72 322.00" transform="rotate(258.79 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.72 325.00" transform="rotate(264.00 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.70 325.02" transform="rotate(265.90 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#3f3d4d" stroke-width="22" stroke-dasharray="2.02 324.70" transform="rotate(267.77 126 156)"/>
 <text x="126" y="154" font-size="20" font-weight="700" fill="#ece8ff" text-anchor="middle">85%</text>
 <text x="126" y="172" font-size="11" fill="#8b8798" text-anchor="middle">Python</text>
 <rect x="228" y="106" width="11" height="11" rx="2" fill="#a78bfa"/>
 <text x="248" y="116" font-size="13" fill="#ece8ff">Python</text>
-<text x="453" y="116" font-size="13" fill="#8b8798" text-anchor="end">85.3%</text>
+<text x="453" y="116" font-size="13" fill="#8b8798" text-anchor="end">85.2%</text>
 <rect x="228" y="127" width="11" height="11" rx="2" fill="#8b5cf6"/>
 <text x="248" y="137" font-size="13" fill="#ece8ff">TypeScript</text>
-<text x="453" y="137" font-size="13" fill="#8b8798" text-anchor="end">7.4%</text>
+<text x="453" y="137" font-size="13" fill="#8b8798" text-anchor="end">7.5%</text>
 <rect x="228" y="148" width="11" height="11" rx="2" fill="#7c3aed"/>
 <text x="248" y="158" font-size="13" fill="#ece8ff">JavaScript</text>
 <text x="453" y="158" font-size="13" fill="#8b8798" text-anchor="end">4.2%</text>
@@ -42,6 +42,6 @@
 <text x="585" y="198" font-size="30" font-weight="700" fill="#ece8ff">17</text>
 <text x="667" y="198" font-size="13" fill="#8b8798">languages</text>
 <line x1="585" y1="214" x2="805" y2="214" stroke="#2a2740" stroke-width="1"/>
-<text x="585" y="242" font-size="30" font-weight="700" fill="#ece8ff">32</text>
+<text x="585" y="242" font-size="30" font-weight="700" fill="#ece8ff">42</text>
 <text x="667" y="242" font-size="13" fill="#8b8798">pushes · 90d</text>
 </svg>
