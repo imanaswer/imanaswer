@@ -3,10 +3,10 @@
 <rect x="1" y="1" width="838" height="248" rx="16" fill="url(#bg)" stroke="#241f36" stroke-width="1"/>
 <text x="34" y="46" font-size="13" font-weight="700" letter-spacing="4" fill="#6e6a86">LANGUAGES</text>
 <text x="34" y="68" font-size="12" fill="#8b8798">by bytes written across 38 original repositories</text>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="278.31 48.42" transform="rotate(-90.00 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="24.56 302.16" transform="rotate(216.65 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.68 313.04" transform="rotate(243.72 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.72 322.00" transform="rotate(258.79 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="278.23 48.50" transform="rotate(-90.00 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="24.65 302.08" transform="rotate(216.56 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.68 313.05" transform="rotate(243.72 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.72 322.00" transform="rotate(258.80 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.72 325.00" transform="rotate(264.00 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.70 325.02" transform="rotate(265.90 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#3f3d4d" stroke-width="22" stroke-dasharray="2.02 324.70" transform="rotate(267.77 126 156)"/>
