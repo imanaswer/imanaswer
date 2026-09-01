@@ -3,12 +3,12 @@
 <rect x="1" y="1" width="838" height="248" rx="16" fill="url(#bg)" stroke="#241f36" stroke-width="1"/>
 <text x="34" y="46" font-size="13" font-weight="700" letter-spacing="4" fill="#6e6a86">LANGUAGES</text>
 <text x="34" y="68" font-size="12" fill="#8b8798">by bytes written across 38 original repositories</text>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="277.79 48.94" transform="rotate(-90.00 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="25.12 301.61" transform="rotate(216.08 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.67 313.06" transform="rotate(243.75 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="277.59 49.13" transform="rotate(-90.00 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="25.32 301.41" transform="rotate(215.86 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.66 313.07" transform="rotate(243.76 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.71 322.01" transform="rotate(258.81 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.72 325.00" transform="rotate(264.01 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.70 325.03" transform="rotate(265.90 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.73 325.00" transform="rotate(264.00 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.70 325.03" transform="rotate(265.91 126 156)"/>
 <circle cx="126" cy="156" r="52" fill="none" stroke="#3f3d4d" stroke-width="22" stroke-dasharray="2.02 324.71" transform="rotate(267.78 126 156)"/>
 <text x="126" y="154" font-size="20" font-weight="700" fill="#ece8ff" text-anchor="middle">85%</text>
 <text x="126" y="172" font-size="11" fill="#8b8798" text-anchor="middle">Python</text>

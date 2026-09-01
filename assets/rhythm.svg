@@ -3,7 +3,7 @@
 <rect x="1" y="1" width="838" height="363" rx="16" fill="url(#bg)" stroke="#241f36" stroke-width="1"/>
 <text x="34" y="46" font-size="13" font-weight="700" letter-spacing="4" fill="#6e6a86">WHEN I COMMIT</text>
 <text x="34" y="68" font-size="12" fill="#8b8798">54 pushes · last 30 days · Asia/Kolkata</text>
-<line x1="418.5" y1="88" x2="418.5" y2="313" stroke="#9d71fa" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
+<line x1="573.5" y1="88" x2="573.5" y2="313" stroke="#9d71fa" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
 <text x="52" y="113.5" font-size="10" letter-spacing="1" fill="#8b8798" text-anchor="end">MON</text>
 <rect x="64" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="95" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
@@ -16,18 +16,18 @@
 <rect x="312" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="343" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="374" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="405" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
+<rect x="405" y="96" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
 <rect x="436" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="467" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="498" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="529" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="560" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="591" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="622" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
+<rect x="560" y="96" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
+<rect x="591" y="96" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
+<rect x="622" y="96" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
 <rect x="653" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="684" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
+<rect x="684" y="96" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
 <rect x="715" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="746" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
+<rect x="746" y="96" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
 <rect x="777" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <text x="52" y="144.5" font-size="10" letter-spacing="1" fill="#8b8798" text-anchor="end">TUE</text>
 <rect x="64" y="127" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
@@ -138,10 +138,10 @@
 <rect x="219" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="250" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="281" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="312" y="251" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.64"/>
+<rect x="312" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="343" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="374" y="251" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.52"/>
-<rect x="405" y="251" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
+<rect x="374" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
+<rect x="405" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="436" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="467" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="498" y="251" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
@@ -184,6 +184,6 @@
 <text x="436" y="325" font-size="10" fill="#8b8798">12p</text>
 <text x="622" y="325" font-size="10" fill="#8b8798">6p</text>
 <text x="777" y="325" font-size="10" fill="#8b8798">11p</text>
-<text x="34" y="345" font-size="12" fill="#8b8798">9% of my pushes land between 10pm and 3am.</text>
-<text x="806" y="345" font-size="12" fill="#8b8798" text-anchor="end">busiest hour · 11am</text>
+<text x="34" y="345" font-size="12" fill="#8b8798">11% of my pushes land between 10pm and 3am.</text>
+<text x="806" y="345" font-size="12" fill="#8b8798" text-anchor="end">busiest hour · 4pm</text>
 </svg>
