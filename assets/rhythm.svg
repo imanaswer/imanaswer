@@ -2,7 +2,7 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14121c"/><stop offset="1" stop-color="#0a0910"/></linearGradient></defs>
 <rect x="1" y="1" width="838" height="363" rx="16" fill="url(#bg)" stroke="#241f36" stroke-width="1"/>
 <text x="34" y="46" font-size="13" font-weight="700" letter-spacing="4" fill="#6e6a86">WHEN I COMMIT</text>
-<text x="34" y="68" font-size="12" fill="#8b8798">64 pushes · last 28 days · Asia/Kolkata</text>
+<text x="34" y="68" font-size="12" fill="#8b8798">65 pushes · last 29 days · Asia/Kolkata</text>
 <line x1="573.5" y1="88" x2="573.5" y2="313" stroke="#9d71fa" stroke-width="1" stroke-dasharray="2 4" opacity="0.5"/>
 <text x="52" y="113.5" font-size="10" letter-spacing="1" fill="#8b8798" text-anchor="end">MON</text>
 <rect x="64" y="96" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
@@ -94,7 +94,7 @@
 <rect x="405" y="189" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
 <rect x="436" y="189" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
 <rect x="467" y="189" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
-<rect x="498" y="189" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
+<rect x="498" y="189" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.40"/>
 <rect x="529" y="189" width="27" height="27" rx="5" fill="#9d71fa" opacity="0.52"/>
 <rect x="560" y="189" width="27" height="27" rx="5" fill="#9d71fa" opacity="1.00"/>
 <rect x="591" y="189" width="27" height="27" rx="5" fill="none" stroke="#241f36" stroke-width="1"/>
