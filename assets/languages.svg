@@ -2,46 +2,46 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14121c"/><stop offset="1" stop-color="#0a0910"/></linearGradient></defs>
 <rect x="1" y="1" width="838" height="248" rx="16" fill="url(#bg)" stroke="#241f36" stroke-width="1"/>
 <text x="34" y="46" font-size="13" font-weight="700" letter-spacing="4" fill="#6e6a86">LANGUAGES</text>
-<text x="34" y="68" font-size="12" fill="#8b8798">by bytes written across 43 original repositories</text>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="272.34 54.39" transform="rotate(-90.00 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="30.34 296.39" transform="rotate(210.07 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.41 313.31" transform="rotate(243.50 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.61 322.12" transform="rotate(258.28 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="1.78 324.95" transform="rotate(263.35 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.66 325.07" transform="rotate(265.31 126 156)"/>
-<circle cx="126" cy="156" r="52" fill="none" stroke="#3f3d4d" stroke-width="22" stroke-dasharray="2.59 324.13" transform="rotate(267.14 126 156)"/>
-<text x="126" y="154" font-size="20" font-weight="700" fill="#ece8ff" text-anchor="middle">83%</text>
+<text x="34" y="68" font-size="12" fill="#8b8798">by bytes written across 44 original repositories</text>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#a78bfa" stroke-width="22" stroke-dasharray="268.02 58.71" transform="rotate(-90.00 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#8b5cf6" stroke-width="22" stroke-dasharray="31.55 295.17" transform="rotate(205.31 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#7c3aed" stroke-width="22" stroke-dasharray="13.67 313.05" transform="rotate(240.08 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#6d28d9" stroke-width="22" stroke-dasharray="4.53 322.20" transform="rotate(255.15 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#5b21b6" stroke-width="22" stroke-dasharray="2.98 323.75" transform="rotate(260.13 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#4c1d95" stroke-width="22" stroke-dasharray="1.78 324.95" transform="rotate(263.42 126 156)"/>
+<circle cx="126" cy="156" r="52" fill="none" stroke="#3f3d4d" stroke-width="22" stroke-dasharray="4.20 322.53" transform="rotate(265.38 126 156)"/>
+<text x="126" y="154" font-size="20" font-weight="700" fill="#ece8ff" text-anchor="middle">82%</text>
 <text x="126" y="172" font-size="11" fill="#8b8798" text-anchor="middle">Python</text>
 <rect x="228" y="106" width="11" height="11" rx="2" fill="#a78bfa"/>
 <text x="248" y="116" font-size="13" fill="#ece8ff">Python</text>
-<text x="453" y="116" font-size="13" fill="#8b8798" text-anchor="end">83.4%</text>
+<text x="453" y="116" font-size="13" fill="#8b8798" text-anchor="end">82.0%</text>
 <rect x="228" y="127" width="11" height="11" rx="2" fill="#8b5cf6"/>
 <text x="248" y="137" font-size="13" fill="#ece8ff">TypeScript</text>
-<text x="453" y="137" font-size="13" fill="#8b8798" text-anchor="end">9.3%</text>
+<text x="453" y="137" font-size="13" fill="#8b8798" text-anchor="end">9.7%</text>
 <rect x="228" y="148" width="11" height="11" rx="2" fill="#7c3aed"/>
 <text x="248" y="158" font-size="13" fill="#ece8ff">JavaScript</text>
-<text x="453" y="158" font-size="13" fill="#8b8798" text-anchor="end">4.1%</text>
+<text x="453" y="158" font-size="13" fill="#8b8798" text-anchor="end">4.2%</text>
 <rect x="228" y="169" width="11" height="11" rx="2" fill="#6d28d9"/>
 <text x="248" y="179" font-size="13" fill="#ece8ff">Cython</text>
 <text x="453" y="179" font-size="13" fill="#8b8798" text-anchor="end">1.4%</text>
 <rect x="228" y="190" width="11" height="11" rx="2" fill="#5b21b6"/>
-<text x="248" y="200" font-size="13" fill="#ece8ff">CSS</text>
-<text x="453" y="200" font-size="13" fill="#8b8798" text-anchor="end">0.5%</text>
+<text x="248" y="200" font-size="13" fill="#ece8ff">HTML</text>
+<text x="453" y="200" font-size="13" fill="#8b8798" text-anchor="end">0.9%</text>
 <rect x="228" y="211" width="11" height="11" rx="2" fill="#4c1d95"/>
-<text x="248" y="221" font-size="13" fill="#ece8ff">Jupyter Notebook</text>
+<text x="248" y="221" font-size="13" fill="#ece8ff">CSS</text>
 <text x="453" y="221" font-size="13" fill="#8b8798" text-anchor="end">0.5%</text>
 <rect x="228" y="232" width="11" height="11" rx="2" fill="#3f3d4d"/>
 <text x="248" y="242" font-size="13" fill="#ece8ff">Other</text>
-<text x="453" y="242" font-size="13" fill="#8b8798" text-anchor="end">0.8%</text>
-<text x="585" y="110" font-size="30" font-weight="700" fill="#ece8ff">43</text>
+<text x="453" y="242" font-size="13" fill="#8b8798" text-anchor="end">1.3%</text>
+<text x="585" y="110" font-size="30" font-weight="700" fill="#ece8ff">44</text>
 <text x="667" y="110" font-size="13" fill="#8b8798">original repos</text>
 <line x1="585" y1="126" x2="805" y2="126" stroke="#2a2740" stroke-width="1"/>
-<text x="585" y="154" font-size="30" font-weight="700" fill="#ece8ff">44</text>
+<text x="585" y="154" font-size="30" font-weight="700" fill="#ece8ff">45</text>
 <text x="667" y="154" font-size="13" fill="#8b8798">public repos</text>
 <line x1="585" y1="170" x2="805" y2="170" stroke="#2a2740" stroke-width="1"/>
 <text x="585" y="198" font-size="30" font-weight="700" fill="#ece8ff">17</text>
 <text x="667" y="198" font-size="13" fill="#8b8798">languages</text>
 <line x1="585" y1="214" x2="805" y2="214" stroke="#2a2740" stroke-width="1"/>
-<text x="585" y="242" font-size="30" font-weight="700" fill="#ece8ff">105</text>
+<text x="585" y="242" font-size="30" font-weight="700" fill="#ece8ff">107</text>
 <text x="667" y="242" font-size="13" fill="#8b8798">pushes · 90d</text>
 </svg>
